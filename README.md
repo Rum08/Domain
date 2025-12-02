@@ -1,1 +1,1 @@
-lafdomain
+laf
